@@ -1,9 +1,10 @@
 # git-learning
 a project for git learning
 
+## 分支
 
 ### 创建分支
-git branch <branch_name>
+`git branch <branch_name>`
 
 ### 切换分支
 git checkout <branch_name>
@@ -18,3 +19,5 @@ git branch -d <branch_name>
 > 将当前分支与特定分支合并
 
 git merge <branch_name>
+
+## 标签
